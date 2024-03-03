@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red;">Hello I'm Belle Mere</h1>
+<h1 align="center"><font color="red">Hello I'm Belle Mere</font></h1>
 <h3 align="center">A Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bellemere&label=Profile%20views&color=0e75b6&style=flat" alt="bellemere" /> </p>
