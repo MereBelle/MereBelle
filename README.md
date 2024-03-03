@@ -1,4 +1,8 @@
-<h1 align="center"><font color="red">Hello I'm Belle Mere</font></h1>
+<div align="center"> 
+  
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+BelleMere)](https://git.io/typing-svg) 
+ </div> 
+
 <h3 align="center">A Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bellemere&label=Profile%20views&color=0e75b6&style=flat" alt="bellemere" /> </p>
